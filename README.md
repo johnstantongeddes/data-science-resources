@@ -2,9 +2,12 @@
 
 A compendium of useful resources for statistics, data science and visualization.
 
+
 ## Machine Learning
 
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/intro.html)
+* [data-science topic on GitHub](https://github.com/topics/data-science)
+
 
 ## Time Series Analysis
 
@@ -37,6 +40,7 @@ A compendium of useful resources for statistics, data science and visualization.
 * [Handling Strings in R](https://www.gastonsanchez.com/r4strings/)
    
 ## Python
+* [Technical Notes for Python/Pandas (Chris Albon)](https://chrisalbon.com)
 * [Machine Learning Cheat Sheet](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
 * [Bayesian Methods for Hackers](http://drivendata.github.io/cookiecutter-data-science/)
    A programmers guide to Bayesian methods for data science using Python.
@@ -60,3 +64,5 @@ A compendium of useful resources for statistics, data science and visualization.
 ## Technology
 
 * [Docker for R Users](https://colinfay.me/docker-r-reproducibility/)
+* [awk](http://www.grymoire.com/Unix/Awk.html)
+* [Git for Data Science DATACAMP](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
