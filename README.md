@@ -34,6 +34,7 @@ Popular repositories in the [data-science topic on GitHub](https://github.com/to
 
 ## R
 
+* [What They Forgot to Teach You About R](https://whattheyforgot.org/)
 * [R for Data Science (Grolemund and Wickham)](http://r4ds.had.co.nz/)
 * [R Markdown: The Definitive Guide](http://drivendata.github.io/cookiecutter-data-science/)
 * [Tidyverse Style Guide](https://style.tidyverse.org/index.html)
@@ -65,6 +66,7 @@ Popular repositories in the [data-science topic on GitHub](https://github.com/to
 * [awk](http://www.grymoire.com/Unix/Awk.html)
 * [Git for Data Science DATACAMP](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
   - Version control. A must-have.
+* [Happy Git with R](https://happygitwithr.com/)
 * [Terraform](https://www.terraform.io/intro/index.html)
   - Tool to manage cloud infrastructure
 
