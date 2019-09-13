@@ -60,13 +60,20 @@ Popular repositories in the [data-science topic on GitHub](https://github.com/to
 * [Viya](http://go.documentation.sas.com/?cdcId=vdmmlcdc&cdcVersion=8.11&docsetId=mlov&docsetTarget=home.htm&locale=en)
 * [Viya - R examples on GitHub](https://github.com/sassoftware/R-swat)
 
+
+## Version Control
+
+* [Git for Humans](https://speakerdeck.com/alicebartlett/git-for-humans)
+* [Git for Data Science DATACAMP](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
+  - Version control. A must-have.
+* [Happy Git with R](https://happygitwithr.com/)
+* [Git Flow](https://guides.github.com/introduction/flow/)
+
+
 ## Technology
 
 * [Docker for R Users](https://colinfay.me/docker-r-reproducibility/)
 * [awk](http://www.grymoire.com/Unix/Awk.html)
-* [Git for Data Science DATACAMP](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
-  - Version control. A must-have.
-* [Happy Git with R](https://happygitwithr.com/)
 * [Terraform](https://www.terraform.io/intro/index.html)
   - Tool to manage cloud infrastructure
 
