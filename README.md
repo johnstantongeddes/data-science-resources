@@ -22,6 +22,7 @@ Popular repositories in the [data-science topic on GitHub](https://github.com/to
 
 ### Bayesian Methods
 
+* [Statistical Rethinking Course Materials](https://github.com/rmcelreath/statrethinking_winter2019)
 * [Statistical Rethinking Recoded](https://bookdown.org/connect/#/apps/1850/access)
 * [Bayesian Methods for Hackers](http://drivendata.github.io/cookiecutter-data-science/)
   - A programmers guide to Bayesian methods for data science using Python.
