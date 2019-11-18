@@ -5,10 +5,6 @@ A compendium of useful resources for statistics, data science and visualization.
 Popular repositories in the [data-science topic on GitHub](https://github.com/topics/data-science)
 
 
-## Machine Learning
-
-* [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/intro.html)
-
 ## Statistics
 
 * [Modern Dive (Ismay and Kim)](http://moderndive.com/index.html)
@@ -31,6 +27,15 @@ Popular repositories in the [data-science topic on GitHub](https://github.com/to
 
 * [Dartistics](http://www.dartistics.com/)
    Awesome resource for web analytics with R!
+
+
+## Machine Learning
+
+* [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/intro.html)
+
+### Neural Networks
+
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
 
 
 ## R
