@@ -51,7 +51,7 @@ Popular repositories in the [data-science topic on GitHub](https://github.com/to
 * [Efficient R programming](https://csgillespie.github.io/efficientR/)
 * [Handling Strings in R](https://www.gastonsanchez.com/r4strings/)
 * [R Packages](http://r-pkgs.had.co.nz/)
-  
+* [Mastering Shiny](https://mastering-shiny.org/) 
 
 ## Python
 
