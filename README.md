@@ -53,6 +53,7 @@ Popular repositories in the [data-science topic on GitHub](https://github.com/to
 * [R Packages](http://r-pkgs.had.co.nz/)
 * [Mastering Shiny](https://mastering-shiny.org/) 
 * [Mastering Spark with R](https://therinspark.com/)
+* [Docker for R Users](https://github.com/noamross/nyhackr-docker-talk)
 
 ## Python
 
