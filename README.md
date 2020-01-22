@@ -46,6 +46,7 @@ Popular repositories in the [data-science topic on GitHub](https://github.com/to
 * [Tidyverse Style Guide](https://style.tidyverse.org/index.html)
 * [Tidyverse](https://www.tidyverse.org/)
    An opinionated collection of R packages designed for data science.
+* [Tidymodels](https://github.com/tidymodels)
 * [Tinyverse](http://www.tinyverse.org/)
    An opinionated single package in R.
 * [Efficient R programming](https://csgillespie.github.io/efficientR/)
@@ -57,6 +58,7 @@ Popular repositories in the [data-science topic on GitHub](https://github.com/to
 
 ## Python
 
+* [Think Stats](https://greenteapress.com/wp/think-stats-2e/) Introduction to Probability and Statistics for Python Programmers
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [Technical Notes for Python/Pandas (Chris Albon)](https://chrisalbon.com)
 * [Machine Learning Cheat Sheet](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
