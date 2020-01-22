@@ -2,9 +2,14 @@
 
 Reminder that the [CRAN Task Views](https://cran.r-project.org/web/views/) are always a great place to start!
 
+General
 
 * [archivist](http://pbiecek.github.io/archivist/): Stores copies of all objects along with their metadata. It helps to manage and recreate objects with final or partial results from data analysis. 
 * [callr](https://callr.r-lib.org/): Call R functions in a subprocess
+* [future](https://cran.r-project.org/web/packages/future/index.html): The purpose of this package is to provide a lightweight and unified Future API for sequential and parallel processing of R expression via futures.
+
+Exploratory Data Analysis and Preparation
+
 * [skimr](https://ropensci.github.io/skimr/): A frictionless approach to summary statistics which conforms to the principle of least surprise, displaying summary statistics the user can skim quickly to understand their data
 * [vtreat](http://winvector.github.io/vtreat/): A `data.frame` processor/conditioner that prepares real-world data for supervised machine learning or predictive modeling in a statistically sound manner.
 
@@ -15,8 +20,11 @@ Statistical Modeling
 * [lme4](https://cran.r-project.org/web/packages/lme4/index.html): Fit linear and generalized linear mixed-effects models.  
 * [merTools](https://cran.r-project.org/web/packages/merTools/index.html): Provides methods for extracting results from mixed-effect model objects fit with the 'lme4' package. 
 
-
 Bayesian 
+
+* [brms](https://cran.r-project.org/web/packages/brms/index.html): Fit Bayesian generalized (non-)linear multivariate multilevel models using 'Stan' for full Bayesian inference. 
+* [rstan](https://cran.r-project.org/web/packages/rstan/index.html): User-facing R functions are provided to parse, compile, test, estimate, and analyze Stan models by accessing the header-only Stan library provided by the 'StanHeaders' package.
+* [tfprobability](https://rstudio.github.io/tfprobability/): TensorFlow Probability is a library for statistical computation and probabilistic modeling built on top of TensorFlow.
 
 SM/ML Frameworks 
 
