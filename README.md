@@ -59,9 +59,10 @@ Popular repositories in the [data-science topic on GitHub](https://github.com/to
 
 ## Python
 
-* [Think Stats](https://greenteapress.com/wp/think-stats-2e/) Introduction to Probability and Statistics for Python Programmers
+* [Practical Python Programming](https://dabeaz-course.github.io/practical-python/) Foundational aspects of Python programming with an emphasis on script writing, data manipulation, and program organization
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [Technical Notes for Python/Pandas (Chris Albon)](https://chrisalbon.com)
+* [Think Stats](https://greenteapress.com/wp/think-stats-2e/) Introduction to Probability and Statistics for Python Programmers
 * [Machine Learning Cheat Sheet](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
 * [Cookie Cutter Data Science](http://drivendata.github.io/cookiecutter-data-science/)
   - Python-based framework for data science.
