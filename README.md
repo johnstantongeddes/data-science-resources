@@ -56,6 +56,7 @@ Popular repositories in the [data-science topic on GitHub](https://github.com/to
 * [Mastering Spark with R](https://therinspark.com/)
 * [Docker for R Users](https://github.com/noamross/nyhackr-docker-talk)
 * [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/)
+* [Tidy Modeling in R](https://www.tmwr.org/)
 
 ## Python
 
