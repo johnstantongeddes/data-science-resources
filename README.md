@@ -70,6 +70,13 @@ Popular repositories in the [data-science topic on GitHub](https://github.com/to
 * [Cookie Cutter Data Science](http://drivendata.github.io/cookiecutter-data-science/)
   - Python-based framework for data science.
 
+## SQL
+
+* [Practical SQL for Data Analysis](https://hakibenita.com/sql-for-data-analysis)
+* [Select Star SQL](https://selectstarsql.com/)
+* [Minimalist Guide to SQLite](https://tech.marksblogg.com/sqlite3-tutorial-and-guide.html)
+* [DuckDB](https://duckdb.org/)
+
 ## SAS
 
 * [Viya](http://go.documentation.sas.com/?cdcId=vdmmlcdc&cdcVersion=8.11&docsetId=mlov&docsetTarget=home.htm&locale=en)
