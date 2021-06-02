@@ -97,8 +97,8 @@ Popular repositories in the [data-science topic on GitHub](https://github.com/to
 * [Command Line Tricks](https://medium.com/@kadek/command-line-tricks-for-data-scientists-c98e0abe5da)
 * [Docker for R Users](https://colinfay.me/docker-r-reproducibility/)
 * [awk](http://www.grymoire.com/Unix/Awk.html)
-* [Terraform](https://www.terraform.io/intro/index.html)
-  - Tool to manage cloud infrastructure
+* [Terraform](https://www.terraform.io/intro/index.html) -- tool to manage cloud infrastructure
+* [Regex101](https://regex101.com/) -- regular expressions 
 
 ## Data Visualization
 
