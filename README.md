@@ -12,6 +12,7 @@ Popular repositories in the [data-science topic on GitHub](https://github.com/to
 * [Broadening Your Statistical Horizons](https://bookdown.org/roback/bookdown-bysh/)
    Generalized Linear Models and Multilevel Models
 * [Principles of Econometrics in R](https://bookdown.org/ccolonescu/RPoE4/)
+* [Library of Statistical Techniques](https://lost-stats.github.io/)
 
 ### Time Series Analysis
 
