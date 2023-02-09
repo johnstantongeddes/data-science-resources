@@ -13,6 +13,8 @@ Popular repositories in the [data-science topic on GitHub](https://github.com/to
    Generalized Linear Models and Multilevel Models
 * [Principles of Econometrics in R](https://bookdown.org/ccolonescu/RPoE4/)
 * [Library of Statistical Techniques](https://lost-stats.github.io/)
+* [Analysing Data using Linear Models](https://bookdown.org/pingapang9/linear_models_bookdown/)
+  * Nice [section on constrasts and encoding ](https://bookdown.org/pingapang9/linear_models_bookdown/chap-contrasts.html#contrasts-and-dummy-coding)
 
 ### Time Series Analysis
 
