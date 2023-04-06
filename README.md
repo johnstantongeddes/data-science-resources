@@ -73,6 +73,11 @@ Popular repositories in the [data-science topic on GitHub](https://github.com/to
 * [Cookie Cutter Data Science](http://drivendata.github.io/cookiecutter-data-science/)
   - Python-based framework for data science.
 
+## Julia
+
+* [Using Julia For Introductory Statistics](https://jverzani.github.io/UsingJ/)
+* [Embrace Uncertainty: Mixed-effects models with Julia](https://juliamixedmodels.github.io/EmbraceUncertainty/)
+
 ## SQL
 
 * [Practical SQL for Data Analysis](https://hakibenita.com/sql-for-data-analysis)
