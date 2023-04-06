@@ -9,7 +9,7 @@ Popular repositories in the [data-science topic on GitHub](https://github.com/to
 
 * [Modern Dive (Ismay and Kim)](http://moderndive.com/index.html)
    A new online text focused at teaching, but with some nice examples.
-* [Broadening Your Statistical Horizons](https://bookdown.org/roback/bookdown-bysh/)
+* [Broadening Your Statistical Horizons](https://bookdown.org/roback/bookdown-BeyondMLR/)
    Generalized Linear Models and Multilevel Models
 * [Principles of Econometrics in R](https://bookdown.org/ccolonescu/RPoE4/)
 * [Library of Statistical Techniques](https://lost-stats.github.io/)
