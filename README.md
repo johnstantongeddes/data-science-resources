@@ -15,7 +15,12 @@ Popular repositories in the [data-science topic on GitHub](https://github.com/to
 * [Library of Statistical Techniques](https://lost-stats.github.io/)
 * [Analysing Data using Linear Models](https://bookdown.org/pingapang9/linear_models_bookdown/)
   * Nice [section on constrasts and encoding ](https://bookdown.org/pingapang9/linear_models_bookdown/chap-contrasts.html#contrasts-and-dummy-coding)
+
+## Causal Inference
+
 * [Causal Inference: Mixtape Sessions](https://mixtape.scunning.com/)
+* [The Effect Book](https://theeffectbook.net/)
+* [Integrated Inferences](https://integrated-inferences.github.io/)
 
 ### Time Series Analysis
 
